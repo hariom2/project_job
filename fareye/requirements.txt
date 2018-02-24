@@ -1,0 +1,1 @@
+# Djangodjango# Configurationdjango-environ==0.4.0# Modelsdjango-model-utils==2.6mysql-python# Unicode slugificationdjango-autoslug==1.9.3#Paginationdjango-el-pagination#Rest Framework APIdjangorestframework==3.6.2#for debugingdjango-debug-toolbar#for requestrequests
