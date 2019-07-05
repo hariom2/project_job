@@ -1,6 +1,8 @@
 """
-Django settings for fareye project.
 
+shivdeep
+
+Django settings for fareye project.
 """
 
 from __future__ import absolute_import, unicode_literals
